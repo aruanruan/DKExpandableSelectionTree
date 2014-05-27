@@ -5,7 +5,7 @@ It is a better expandable list view for Android that allows user to select multi
 
 ##ScreenShot
 
-<p align="center"><img src="https://github.com/wzbozon/DKExpandableSelectionTree/blob/master/DKExpandableSelectionTree.png?raw=true"></p>
+<p align="center"><img src="https://github.com/wzbozon/DKExpandableSelectionTree/blob/master/DKExpandableSelectionTree.png?raw=true" width="240"></p>
 
 ##Features
 * Displays and allows a work with an expandable tree of groups of items
@@ -14,13 +14,9 @@ It is a better expandable list view for Android that allows user to select multi
 * User can select / deselect all items in a group by selecting a checkbox near a group name
 * Saves selected items in a singleton, that can be used in any other activity
 
-##How to use
+##How to use / Sample Application
 
-There is a sample project of a universal app for iPhone and iPad.
-
-##How to use
-
-There is a sample project of a universal app for iPhone and iPad.
+There is a sample project inside.
 
 ##Supported Android Versions
 
