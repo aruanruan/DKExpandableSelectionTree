@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expandable Selection Tree</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Click to open expandable selection tree</string>
+    <string name="select_items_button_title">Select Items</string>
+    <string name="copyright">Created by Dennis Kutlubaev, Alwawee Inc.\nDistributed under MIT Licence.</string>
+    <string name="action_select">Select</string>
+    <string name="action_clear">Clear</string>
+    <string name="is_selected">Selected</string>
+    <string name="items">items</string>
+    
+</resources>
